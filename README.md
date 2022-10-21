@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @axel-vair
+👋 Hi, I’m @axel-vair
+
 - 👀 I’m interested in front-end but more broadly in web coding :)
 - 🌱 I’m currently learning web coding and become, I hope very soon, front-end developper. 
 - 💞️ I’m looking to collaborate with an company for learning how to become dev web and learn new programming languages. 
