@@ -8,7 +8,7 @@ I’m currently learning web coding and becoming, I hope very soon, front-end de
 
 *   🌍  I'm based in Marseille
 *   🖥️  See my portfolio at [my portfolio](http://axel-vair.students-laplateforme.io)
-*   ✉️  You can contact me at [axelvair@protonmail.com](mailto:axelvair@protonmail.com)
+*   ✉️  You can contact me at [axelvair@laplateforme.io](mailto:axelvair@laplateforme.io)
 *   🧠  I'm learning I’m currently learning web coding and becoming, I hope very soon, front-end developper.
 *   🤝  I'm open to collaborating on I’m looking to collaborate with a company to learn how to become a dev web and learn new programming languages.
 
