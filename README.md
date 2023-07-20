@@ -7,8 +7,8 @@ Web developper junior
 I’m currently learning web coding and becoming, I hope very soon, front-end developper.
 
 *   🌍  I'm based in Marseille
-*   🖥️  See my portfolio at [my portfolio](http://axel-vair.students-laplateforme.io)
-*   ✉️  You can contact me at [axel.vair@laplateforme.io](mailto:axel.vair@laplateforme.io)
+*   🖥️  See my portfolio at [my portfolio](https://axelvair.fr)
+*   ✉️  You can contact me at [contact@axelvair.fr](mailto:contact@axelvair.fr)
 *   🧠  I'm learning I’m currently learning web coding and becoming, I hope very soon, front-end developper.
 *   🤝  I'm open to collaborating on I’m looking to collaborate with a company to learn how to become a dev web and learn new programming languages.
 
