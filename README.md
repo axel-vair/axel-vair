@@ -1,7 +1,7 @@
 Hi 👋 My name is Axel Vair
 ==========================
 
-Web developper junior
+Web developper Full Stack
 --------------
 
 I’m currently learning web coding and becoming, I hope very soon, front-end developper.
