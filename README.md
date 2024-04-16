@@ -4,13 +4,11 @@ Hi 👋 My name is Axel Vair
 Web developper Full Stack
 --------------
 
-I’m currently learning web coding and becoming, I hope very soon, front-end developper.
-
 *   🌍  I'm based in Marseille
 *   🖥️  See my portfolio at [my portfolio](https://axelvair.fr)
 *   ✉️  You can contact me at [contact@axelvair.fr](mailto:contact@axelvair.fr)
-*   🧠  I'm learning I’m currently learning web coding and becoming, I hope very soon, front-end developper.
-*   🤝  I'm open to collaborating on I’m looking to collaborate with a company to learn how to become a dev web and learn new programming languages.
+*   🧠  I’m currently learning Symfony, Spring Boot, VueJS, AdonisJS  and becoming, I hope very soon, a very good full stack developper.
+*   🤝  I'm not open to collaborate with a company for the moment.
 
 
 ### Skills 
